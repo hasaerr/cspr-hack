@@ -34,7 +34,7 @@ The screenshot of build
 Thescreenshot of test
 ![](imgs/22.png)
 ## 3. Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
-<b>select the frist</b>
+<b>select the 3</b>
 
 ### modifying the client
 ```
@@ -127,7 +127,7 @@ const TRANSFER_AMOUNT = process.env.TRANSFER_AMOUNT || 2500000000;
 
 ```
 ### edit the json file
-`    "start:first": "node -r dotenv/config ./src/scenario-three.js",
+`    "start:three": "node -r dotenv/config ./src/scenario-three.js",
 `
 ### Final result:
 ![](imgs/31.png)
